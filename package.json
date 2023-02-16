@@ -1,0 +1,14 @@
+{
+  "name": "esloid",
+  "version": "1.0.0",
+  "description": "a javascript-based vocaloid-like vocal synthesis library.",
+  "main": "main.mjs",
+  "author": "jpegzilla",
+  "license": "MIT",
+  "scripts": {
+    "sandbox": "serve ./testing"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
